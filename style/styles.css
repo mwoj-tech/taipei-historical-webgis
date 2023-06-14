@@ -1,10 +1,50 @@
+body, div, th, td, input, textarea {
+    font-size: 9pt;
+    font-family: Verdana, Arial;
+    line-height: 1,231;
+}
+
+div {
+    display: block;
+}
+
 #divHeader {
     margin: 0px;
     padding: 0px;
     height: 70px;
     border-width: 0px;
     overflow: hidden;
+    border-bottom: 1px solid #ccc;
     background-image: url(../img/title3_e.png);
     background-repeat: no-repeat;
     background-color: #CEBEA0;
+}
+
+#divCount {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+#divButton {
+    height: 30px;
+    float: right;
+    color: #140f06;
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #d2bd9f;
+    border: 1px solid #80786d;
+    border-bottom-width: 0px;
+    margin: 39px 3px 0px 0px;
+}
+
+#divButton .btnNow {
+    height: 30px;
+    float: right;
+    color: #140F06;
+    margin: 39px 3px 0px 0px;
+    padding: 8px 16px;
+    background-color: #F8F7F6;
+    border: 1px solid #655E4E;
+    border-bottom-width: 0px;
 }
