@@ -1,0 +1,10 @@
+#divHeader {
+    margin: 0px;
+    padding: 0px;
+    height: 70px;
+    border-width: 0px;
+    overflow: hidden;
+    background-image: url(../img/title3_e.png);
+    background-repeat: no-repeat;
+    background-color: #CEBEA0;
+}
