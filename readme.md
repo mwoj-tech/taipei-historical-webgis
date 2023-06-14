@@ -1,0 +1,2 @@
+This project is suposed to be and exact clone of the website https://www.historygis.udd.gov.taipei/urban_e/map/
+Leaflet framework is going to be used in order to create the website map: https://leafletjs.com/
